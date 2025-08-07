@@ -106,14 +106,15 @@ div.campo > i {
 /*Campos usuario e senha*/
 div.campo > input {
     background-color: #94cfcd;
-    font-size: 1em;
-    width: calc(100% - 45px);
+     width: calc(100% - 45px);
     height: 100%;
    
     border: 0px;
     border-radius: 8px;
     padding: 1px;
     transform: translateY(-13px);
+    
+    
 
 
 }
@@ -139,14 +140,6 @@ form > input[type=submit] {
     border-radius: 5px;
     cursor: pointer;
     margin-top: 5px;
-    
-   
-      
-      
-    
-    
-    
-   
     
    
 
